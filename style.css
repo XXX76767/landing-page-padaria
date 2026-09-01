@@ -1,8 +1,9 @@
 body {
-  background-color: #F5EFE6;
+  background-color: #ddccb4;
   margin: 0%;
   font-family: Arial, sans-serif;
   color: #4A3520;
+  padding: 5%;
 }
 
 #hero {
@@ -91,6 +92,12 @@ h3 {
 
 #sobre {
   text-align: center;
+  font-size: 23px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  width: 80%;
+  margin: 0 auto;
+ 
 }
 
 article img {
